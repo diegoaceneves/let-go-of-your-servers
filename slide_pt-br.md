@@ -83,7 +83,7 @@
 
 * Atualmente:
   * Containers;
-  * Infraestrutura Imutável.d
+  * Infraestrutura Imutável.
 
 ---
 
